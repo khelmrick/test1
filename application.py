@@ -11,5 +11,5 @@ while True:
     # Print the formatted date and time
     print("Kurt-Current Date and Time:", formatted_datetime)
 
-    # Wait for 3 seconds
-    time.sleep(3)
+    # Wait for 5 seconds
+    time.sleep(5)
