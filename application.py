@@ -9,7 +9,7 @@ while True:
     formatted_datetime = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
 
     # Print the formatted date and time
-    print("Mike-Current Date and Time:", formatted_datetime)
+    print("Jackie-Current Date and Time:", formatted_datetime)
 
     # Wait for 5 seconds
     time.sleep(5)
